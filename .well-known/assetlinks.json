@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onyxsio.tanks",
+      "sha256_cert_fingerprints":
+        ["7A:AF:61:75:09:32:5B:C9:5C:C7:58:F2:0E:6B:BA:D2:CA:CB:A4:67:AB:88:9F:B7:B9:CA:B2:F3:75:B9:86:B3"]
+    }
+  }
+]
